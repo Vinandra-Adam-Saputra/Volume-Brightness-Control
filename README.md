@@ -119,12 +119,8 @@ To contribute to this project:
 4. Submit a pull request
 
 ## License
-This project is released under the MIT License.
+This project is released under the [MIT License](LICENSE)
 
 ## Acknowledgments
-- MediaPipe team for hand detection library
-- OpenCV community
-- PyCaw developers
-- screen_brightness_control package maintainers
-- By [Curious Programmer](https://codewithcurious.com/)
+- Project By: [Curious Programmer](https://codewithcurious.com/)
 
